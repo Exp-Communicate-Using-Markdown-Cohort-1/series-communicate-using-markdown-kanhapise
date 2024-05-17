@@ -1,1 +1,6 @@
-![This is image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+public class PhonePad {
+    public static void main(String[] args) {
+        pad("","12");
+    }
+ ```
