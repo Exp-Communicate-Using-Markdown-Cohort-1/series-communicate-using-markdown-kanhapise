@@ -4,9 +4,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+``` js
+const age= 18;
+console.log("Your age is :");
 ```
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
